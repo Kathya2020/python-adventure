@@ -91,3 +91,11 @@ while(decision == ""):
 print()
 time.sleep(1)
 #            ---section end---           #
+
+#   ---Section Author: <Kathya>--- #
+print("There is a warrior who stands in your way!")
+print("1. Fight him!")
+print("2. Try negotiating with him")
+print()
+decision = ""
+while(decision == "")
